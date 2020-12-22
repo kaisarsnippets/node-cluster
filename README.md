@@ -1,5 +1,5 @@
-# Cluster [NodeJS]
-Cluster process
+# Cluster
+[nodejs] Cluster process
 
 ### Install
 ```

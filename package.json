@@ -1,7 +1,7 @@
 {
   "name": "kc-cluster",
   "version": "1.0.3",
-  "description": "Cluster process [NodeJS]",
+  "description": "[nodejs] Cluster process",
   "main": "index.js",
   "repository": {
     "type": "git",
