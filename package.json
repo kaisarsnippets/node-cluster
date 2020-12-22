@@ -1,0 +1,19 @@
+{
+  "name": "kc-cluster",
+  "version": "1.0.2",
+  "description": "Cluster process [NodeJS]",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/node-cluster.git"
+  },
+  "keywords": [
+    "cluster"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/node-cluster/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/node-cluster"
+}
